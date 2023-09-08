@@ -1,1 +1,2 @@
 git sample 
+ok, you have pushed successfully.
